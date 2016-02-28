@@ -1,2 +1,2 @@
-#Project-3: Finite state machine
+#Project 3: Finite state machine
 
