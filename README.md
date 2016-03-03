@@ -1,8 +1,8 @@
 #Project 3: Finite state machine
 
-    We know as much as possible about how the associated gear bringing the information to the tracker operates and how all the gear from the tracker to the gun operates. So we have the human operator surrounded on both sides by very precisely known mechanisms and the question comes up, "What kind of machine have we placed in the middle?"
+  >We know as much as possible about how the associated gear bringing the information to the tracker operates and how all the gear from the tracker to the gun operates. So we have the human operator surrounded on both sides by very precisely known mechanisms and the question comes up, "What kind of machine have we placed in the middle?"
     
-    -Steven J. Heims, *John von Neuman and Norbert Wiener: From Mathematics to the Technologies of Life and Death*
+  >-Steven J. Heims, *John von Neuman and Norbert Wiener: From Mathematics to the Technologies of Life and Death*
 
 In this project you will create a abstract machine known as a finite state machine. The finite state machine is capable of represent a number of states or conditions. From each state, it can transition to certain (but usually not all) other states. This is often represented by a graph with a series of box/circles and arrows. It can also be represented by a series of interlinked webpages. That is how you will make your machine. 
 
