@@ -1,5 +1,13 @@
 #Project 3: Finite state machine
 
+  >27 The concept of a work of art may incolve the matter of the piece or the process in which it is made.<br>
+  >28 Once the idea of the piece is established in the artist's mind and the final form is decided, the process is carried out blinedly. there are many side-effects that the artists cannot imagine. These may be used as ideas for new works.<br>
+  >29 The process is mechanical and should not be tampered with. It should run its course.
+    
+  >-Sol LeWitt, "Sentences on Conceptual Art"
+
+.
+
   >We know as much as possible about how the associated gear bringing the information to the tracker operates and how all the gear from the tracker to the gun operates. So we have the human operator surrounded on both sides by very precisely known mechanisms and the question comes up, "What kind of machine have we placed in the middle?"
     
   >-Steven J. Heims, *John von Neuman and Norbert Wiener: From Mathematics to the Technologies of Life and Death*
